@@ -1,1 +1,1 @@
-# codeshouldbesimple.gitbhub.io
+# codeshouldbesimple.github.io
